@@ -5,6 +5,7 @@ The following is a TDD (Test Driven Development) Kata - an exercise in coding, r
 The exercise is generously provided by Roy Osherove, and can be found [here](https://osherove.com/tdd-kata-1)
 
 ## Running the tests
+From the project root:
 
     python -m unittest discover -v
 
