@@ -6,7 +6,7 @@ The exercise is generously provided by Roy Osherove, and can be found [here](htt
 
 ## Running the tests
 
-python -m unittest discover -v
+    python -m unittest discover -v
 
 ## Authors
 
